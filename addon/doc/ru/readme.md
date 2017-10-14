@@ -22,7 +22,7 @@
   критическом заряде.
 * NVDA+Shift+6 предоставляет установленную версию Windows, разрядность
   процессора (32 или 64-разрядный) и пакет обновления, если есть.
-* NVDA+Shift+7 presents the system's uptime.
+* NVDA+Shift+7 предоставляет время бесперебойной работы системы.
 
 Если у вас NVDA 2013,3 или более поздней версии, вы можете изменить эти
 сочетания клавиш.
@@ -38,26 +38,25 @@
   процессорных ядер.
 * Если есть тяжелые дисковые операции, такие как копирование больших файлов,
   возникают задержки при получении информации об использовании диска.
-* Support for Windows XP from this add-on will end on December 31,
-  2017. Support for Windows Server 2003 and Windows Vista will end on June
-  30, 2018.
+* Поддержка этого дополнения для Windows XP завершится 31 декабря,
+  2017.
+* Поддержка для Windows Server 2003 и Windows Vista завершится в июне 30, 2018.
 
-## Version 17.09
+## Версия 17.09
 
-Important: Version 17.09.x is the last version to support Windows XP.
+Важно: Версия 17.09.x это последняя версия, поддерживающая Windows XP.
 
-* Last version to run on Windows XP.
-* Windows 10 build 16278 and later is recognized as Version 1709. A minor
-  revision for this add-on will be released once Version 1709 stable build
-  is released.
+* Последняя версия для запуска на Windows XP.
+* Windows 10 build 16278 и позднее признается в версии 1709. Незначительный
+  пересмотр для этого дополнения будет выпущен сразу в стабильной версии 1709.
 
-## Version 17.07.1
+## Версия 17.07.1
 
-* Reintroduce support for Windows XP (broken since version 17.02).
+* Вновь введена поддержка для Windows XP (не работало, начиная с версии 17.02).
 
-## Version 17.05
+## Версия 17.05
 
-* Announcement of system uptime (time passed since last boot; NVDA+Shift+7).
+* Объявление бесперебойной работы системы (время, прошедшее с последней загрузки; NVDA+Shift+7).
 
 ## Версия 17.02
 
